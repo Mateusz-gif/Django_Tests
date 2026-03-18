@@ -1,4 +1,0 @@
-Django
-whitenoise
-dj-database-url
-psycopg[binary]
